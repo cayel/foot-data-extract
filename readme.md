@@ -6,14 +6,14 @@ Extraction du fichier premier-league-94.csv depuis : https://github.com/football
 Extraction du ficher ligue1-95.csv depuis : https://github.com/footballcsv/fr-france/blob/master/1994-95/1-division1.csv
 
 # Stockage des données extraites
-Table League
+Table Competition
 - Id
 - Country
 - Name
 
 Table Season
 - Id
-- IdLeague
+- IdCompetition
 - Name
 - Year
 

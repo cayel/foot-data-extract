@@ -1,0 +1,23 @@
+{
+  "name": "foot-data-extract",
+  "version": "1.0.0",
+  "description": "Extraction des données à partir de https://github.com/footballcsv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cayel/foot-data-extract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cayel/foot-data-extract/issues"
+  },
+  "homepage": "https://github.com/cayel/foot-data-extract#readme",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "sqlite3": "^4.0.0"
+  }
+}
